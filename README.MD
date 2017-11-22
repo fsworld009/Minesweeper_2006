@@ -3,6 +3,12 @@
 
 This project was developed as an assignment for my C++ programming course in college. You can download the game under releases page.
 
+### Control
+Arrow Key: movement
+Space: Open square
+X: Set/Remove Flag
+Z: Expand
+
 ### Trouble shooting
 
 If the game is garbled, you need to set code page to 950 (Chinese BIG5) by using following command in command prompt:
