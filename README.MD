@@ -4,9 +4,9 @@
 This project was developed as an assignment for my C++ programming course in college. You can download the game under releases page.
 
 ### Control
-Arrow Key: movement
-Space: Open square
-X: Set/Remove Flag
+Arrow Key: movement  
+Space: Open square  
+X: Set/Remove Flag  
 Z: Expand
 
 ### Trouble shooting
